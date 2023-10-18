@@ -62,5 +62,5 @@ jobs:
         with:
           app-name: 'moodleapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B592C293D11F439DA9C4537AC56E806F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0BE3304B497F45D6A7ABA5D819F0D721 }}
           package: .
